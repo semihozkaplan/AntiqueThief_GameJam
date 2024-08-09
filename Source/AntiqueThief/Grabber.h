@@ -4,17 +4,19 @@
 
 #include "CoreMinimal.h"
 #include "Components/SceneComponent.h"
-#include "Mover.generated.h"
+#include "PhysicsEngine/PhysicsHandleComponent.h"
+
+#include "Grabber.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class ANTIQUETHIEF_API UMover : public USceneComponent
+class ANTIQUETHIEF_API UGrabber : public USceneComponent
 {
 	GENERATED_BODY()
 
 public:	
 	// Sets default values for this component's properties
-	UMover();
+	UGrabber();
 
 protected:
 	// Called when the game starts
@@ -24,17 +26,24 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
+	UFUNCTION(BlueprintCallable)
+	void Grab();
+
+	UFUNCTION(BlueprintCallable)
+	void Release();
+
 private:
 	UPROPERTY(EditAnywhere)
-	FVector MoveOffset;
+	float MaxGrabDist = 400;
 
 	UPROPERTY(EditAnywhere)
-	float MoveTime = 4;
+	float GrabRadius = 100;
 
 	UPROPERTY(EditAnywhere)
-	bool ShouldMove = false;
+	float HoldDistance = 200;
 
-	FVector InitialLocation;
+	UPhysicsHandleComponent* GetPhysicsHandle() const;
+	bool GetGrabbableInReach(FHitResult& OutHitResult) const;
 
 		
 };

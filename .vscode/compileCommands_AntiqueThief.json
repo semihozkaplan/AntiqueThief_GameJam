@@ -24,7 +24,7 @@
 		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\Mover.cpp",
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\Grabber.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_AntiqueThief\\AntiqueThief.261.rsp"
@@ -32,7 +32,55 @@
 		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\Mover.h",
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_AntiqueThief\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_AntiqueThief\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_AntiqueThief\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_AntiqueThief\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_AntiqueThief\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\TriggeredMover.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_AntiqueThief\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\TriggeredMover.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_AntiqueThief\\AntiqueThief.261.rsp"
