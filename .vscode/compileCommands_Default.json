@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThief.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThief.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThief.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\Mover.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\Mover.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	}
+]
